@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purab Modi</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ankit Anurag</h1>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purupanda1&label=Profile%20views&color=0e75b6&style=flat" alt="purupanda1" /> </p>
 
@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently working on **Flutter Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PuruPanda1](https://github.com/PuruPanda1)
+- 👨‍💻 All of my projects are available at [https://github.com/anuragankit)
 
 - 💬 Ask me about **Java, Kotlin, Android, Flutter, Python**
 
-- 📫 How to reach me **purabmodi2002@gmail.com**
+- 📫 How to reach me **anuragankit34@gmail.com**
 
-- 📄 Know about my experiences [Purab Modi](https://purabmodi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
